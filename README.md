@@ -36,7 +36,8 @@ from 2012 to 2024.
 | Grand total offences | 54,531,703 |
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard_preview.png)
+<img width="1920" height="1030" alt="dashboard_preview" src="https://github.com/user-attachments/assets/823afb2c-1f6c-4540-9c7b-0b014acabe72" />
+
 
 ## Files
 | File | Description |
